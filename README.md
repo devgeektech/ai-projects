@@ -1,10 +1,10 @@
 # AI Projects Portfolio
 
-A collection of AI projects I've built.
+A collection of production-ready AI applications, Voice Agents, RAG systems, MCP Servers, and workflow automations.
 
 ## Projects
 
-- **Aria** — [https://github.com/devgeektech/ai-aria](https://github.com/devgeektech/ai-aria)
+- **ARIA – Multi-Tenant AI Assistant Platform (RAG)** — [https://github.com/devgeektech/ai-aria](https://github.com/devgeektech/ai-aria)
 
 ## Tech Stack
 
