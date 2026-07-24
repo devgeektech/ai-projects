@@ -13,6 +13,7 @@ A collection of production-ready AI applications, Voice Agents, RAG systems, MCP
 | ARIA – Multi-Tenant AI Assistant Platform (RAG) | [View Project](https://github.com/devgeektech/ai-aria) |
 | Klav – AI-Powered Conversational Avatar Fan Experience Platform | [View Project](https://github.com/devgeektech/ai-klav-music) |
 | Custom MCP for Multiple Luxury Watch Trading | [View Project](https://github.com/devgeektech/custom-mcp) |
+| Internal AI Photo Editing Tool for Sonna Studios | [View Project](https://github.com/devgeektech/SonnaEditor) |
 
 ---
 
