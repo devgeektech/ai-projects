@@ -39,8 +39,13 @@ This portfolio includes projects built using modern AI, cloud, and full-stack te
 
 - OpenAI
 - GPT Models
+- Anthropic API
 - Claude AI
 - Gemini
+- Mistral AI
+- Groq
+- Ollama (local LLMs)
+- Hugging Face
 - ElevenLabs
 - Vapi
 - LangChain
@@ -49,6 +54,14 @@ This portfolio includes projects built using modern AI, cloud, and full-stack te
 - Pinecone
 - ChromaDB
 - Qdrant
+- OpenCV
+- YOLO
+- Ultralytics YOLO
+- MediaPipe
+- TensorFlow
+- PyTorch
+- Google Vision API
+- AWS Rekognition
 - PostgreSQL
 - Redis
 - Celery
